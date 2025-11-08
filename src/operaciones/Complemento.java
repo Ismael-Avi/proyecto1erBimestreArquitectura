@@ -13,5 +13,6 @@ public class Complemento {
         }
     }
     System.out.println("El número es binario.");
-    return true;
+    return true;
+}
 }
